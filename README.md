@@ -52,3 +52,9 @@ The app will prompt for location access to fetch your current location and displ
 ### AI credit:
 The project was simple and minimal AI was used.
 I had an issue of getting the wrong location and chatGPT recommended using Geolocation API instead of ipapi which was I was using. 
+AI also assisted with the formatting especially the centring and zooming functionalities.
+
+### AI generated code lines:
+- navigator.geolocation.getCurrentPosition replaced previous code that used ipapi
+
+     
